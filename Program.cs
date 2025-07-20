@@ -1,7 +1,7 @@
 ﻿Console.WriteLine("Bienvenido a mi lista de Contactes");
 
 
-//names, lastnames, addresses, telephones, emails, ages, bestfriend
+//Darwin Alexander 20241733
 bool runing = true;
 List<int> ids = new List<int>();
 Dictionary<int, string> names = new Dictionary<int, string>();
